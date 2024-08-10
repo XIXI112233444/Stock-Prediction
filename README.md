@@ -26,7 +26,7 @@ This project is designed to predict stock market trends by analyzing sentiment i
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/XIXI112233444/Stock-Prediction
    ```
    After uploading your project, replace the placeholder URL above with your actual GitHub repository URL.
 
