@@ -1,0 +1,9 @@
+numpy
+pandas
+tqdm
+transformers
+scikit-learn
+keras
+keras_tuner
+statsmodels
+TA-Lib
